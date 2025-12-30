@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Meu nome é Valdir Bozi, tenho 21 anos, nasci em paranaguá PR. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na UNINTER. Tenho grande interesse em me tornar dev backend.
+Meu nome é Valdir Bozi, tenho 21 anos. Sou de Paranaguá/PR. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na UNINTER. Tenho grande interesse em me tornar Dev Backend.
 
 ---
 
