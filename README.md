@@ -1,6 +1,6 @@
 #  🖥️Juninho Bozi
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor`**
 
 Meu nome é Valdir Bozi, tenho 21 anos. Sou de Paranaguá/PR. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na UNINTER. Tenho grande interesse em me tornar Dev Backend.
 
